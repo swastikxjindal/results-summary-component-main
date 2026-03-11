@@ -50,4 +50,4 @@ Used chatGpt to setup different fonts ans colors in tailwind css
 ## Author
 
 - Website - [Swastik Jindal](https://swastikxjindal.github.io/results-summary-component-main/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@swastikxjindal](https://www.frontendmentor.io/profile/swastikxjindal)
